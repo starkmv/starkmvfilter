@@ -17,7 +17,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "8103930194:AAERW8F97kdN0zsyjQnAp91hT9Ei3hJ
 
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
-PICS = (environ.get('PICS', 'https://graph.org/file/ce1723991756e48c35aa1.jpg')).split()
+PICS = (environ.get('PICS', 'https://envs.sh/HjO.jpg')).split()
 
 
 # Admins & Users
@@ -91,7 +91,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+XImlEXCiciU0ZDg1')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/starkmv')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/+XImlEXCiciU0ZDg1') # Support Chat Link Without https:// or @
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/starkmv')
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/rockdmbot')
 
 # True Or False
 AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', True))
